@@ -1,4 +1,5 @@
 import randomImage from "./assets/react-core-concepts.png"
+import componentImage from "./assets/components.png"
 const dynamicValue=["Fundamental","Crucial","Core"];
 
 
@@ -39,7 +40,15 @@ function Header(){
         </header>
     )
 }
-
+function CoreConsepts(props){
+  return(
+    <li>
+      <img src={props.image} />
+      <h3>{props.title}</h3>
+      <p>{props.description}</p>
+    </li>
+  )
+}
 function App() {
     return (
       <div>
@@ -57,6 +66,19 @@ function App() {
         <Header></Header>
         }
         <main>
+          <section id="core-concepts">
+          <ul>          
+            <CoreConsepts 
+              title="Components" 
+              description="The core UI"
+              image={componentImage}/>
+            <CoreConsepts/>
+            <CoreConsepts/>
+            <CoreConsepts/>
+          </ul>
+          </section>
+
+
           <h2>Time to get started!</h2>
           <User />
         </main>
