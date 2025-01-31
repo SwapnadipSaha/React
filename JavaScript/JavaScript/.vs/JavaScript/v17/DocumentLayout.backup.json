@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\472124\\T Factor New\\PragimTech\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\",
+  "WorkspaceRootPath": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|D:\\472124\\T Factor New\\PragimTech\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\javascript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|c:\\users\\swapn\\desktop\\rohan\\react\\workings\\javascript\\javascript\\javascript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|solutionrelative:javascript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "D:\\472124\\T Factor New\\PragimTech\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\index.html",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\index.html",
               "RelativeDocumentMoniker": "JavaScript\\index.html",
-              "ToolTip": "D:\\472124\\T Factor New\\PragimTech\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\index.html",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\index.html",
               "RelativeToolTip": "JavaScript\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-15T05:18:11.456Z",
+              "WhenOpened": "2025-01-31T14:21:27.361Z",
               "EditorCaption": ""
             }
           ]

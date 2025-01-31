@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\472124\\T Factor New\\PragimTech\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|c:\\users\\swapn\\desktop\\rohan\\react\\workings\\javascript\\javascript\\javascript\\assets\\scripts\\util.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|solutionrelative:javascript\\assets\\scripts\\util.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|c:\\users\\swapn\\desktop\\rohan\\react\\workings\\javascript\\javascript\\javascript\\assets\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|solutionrelative:javascript\\assets\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|c:\\users\\swapn\\desktop\\rohan\\react\\workings\\javascript\\javascript\\javascript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6030A60-C939-46FB-87B1-0DA1871B88F7}|JavaScript\\JavaScript.csproj|solutionrelative:javascript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "util.js",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\Assets\\scripts\\util.js",
+              "RelativeDocumentMoniker": "JavaScript\\Assets\\scripts\\util.js",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\Assets\\scripts\\util.js",
+              "RelativeToolTip": "JavaScript\\Assets\\scripts\\util.js",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-31T14:32:54.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\Assets\\scripts\\app.js",
+              "RelativeDocumentMoniker": "JavaScript\\Assets\\scripts\\app.js",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\Assets\\scripts\\app.js",
+              "RelativeToolTip": "JavaScript\\Assets\\scripts\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-31T14:23:15.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\index.html",
+              "RelativeDocumentMoniker": "JavaScript\\index.html",
+              "ToolTip": "C:\\Users\\swapn\\Desktop\\Rohan\\React\\Workings\\JavaScript\\JavaScript\\JavaScript\\index.html",
+              "RelativeToolTip": "JavaScript\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-31T14:21:27.361Z",
+              "EditorCaption": ""
             }
           ]
         }

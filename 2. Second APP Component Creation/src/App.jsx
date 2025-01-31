@@ -40,7 +40,7 @@ function Header(){
         </header>
     )
 }
-function CoreConsepts(props){
+function CoreConcepts(props){
   return(
     <li>
       <img src={props.image} />
@@ -68,13 +68,13 @@ function App() {
         <main>
           <section id="core-concepts">
           <ul>          
-            <CoreConsepts 
+            <CoreConcepts 
               title="Components" 
               description="The core UI"
               image={componentImage}/>
-            <CoreConsepts/>
-            <CoreConsepts/>
-            <CoreConsepts/>
+            <CoreConcepts/>
+            <CoreConcepts/>
+            <CoreConcepts/>
           </ul>
           </section>
 
