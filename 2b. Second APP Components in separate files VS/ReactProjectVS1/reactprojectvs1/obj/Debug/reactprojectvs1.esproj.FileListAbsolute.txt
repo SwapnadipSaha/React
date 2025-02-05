@@ -1,0 +1,2 @@
+C:\Users\swapn\source\Repos\2b. Second APP Components in separate files VS\ReactProjectVS1\ReactProjectVS1\obj\Debug\reactprojectvs1.esproj.CoreCompileInputs.cache
+C:\Users\swapn\Desktop\Rohan\React\Workings\2b. Second APP Components in separate files VS\ReactProjectVS1\ReactProjectVS1\obj\Debug\reactprojectvs1.esproj.CoreCompileInputs.cache
