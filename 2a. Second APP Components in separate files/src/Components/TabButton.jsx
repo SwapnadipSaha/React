@@ -4,13 +4,13 @@
 //     )
 // }
 // or
-export default function TabButton({ children }) {
-    function clickHandler(){
-        console.log("Hello");
-    }
+export default function TabButton({ children ,onSelect}) {
+    // function clickHandler(){
+    //     console.log("Hello");
+    // }
     return(
     <li>
-        <button onClick={clickHandler}>{ children }</button>
+        <button onClick={onSelect}>{ children }</button>
     </li>  
     )
 
